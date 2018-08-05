@@ -1,6 +1,8 @@
 # X-editable
 In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.  
+This is just a copy of X-editable forked from Vitalets. As this project is abondened. I wanted to try to keep this alive with the recent changes. 
 
+I will drop in a link for a repo here that will point to the right version
 ## Live Demo
 **http://vitalets.github.io/x-editable/demo.html**
 
@@ -18,7 +20,7 @@ Unfortunately, due to this project being supported by volunteers we cannot provi
 **http://vitalets.github.io/x-editable**
 
 ## Project Status
-Actively Maintained
+NOT Maintained
 
 ## How to get it
 
